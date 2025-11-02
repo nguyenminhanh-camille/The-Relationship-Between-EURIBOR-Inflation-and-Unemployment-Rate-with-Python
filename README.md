@@ -1,0 +1,2 @@
+# The-Relationship-Between-EURIBOR-Inflation-and-Unemployment-Rate-with-Python
+The project is analyzing the behavior of EURIBOR and try to estimate it using macroeconomics variables. The goal is to explain and predict EURIBOR based on macroeconomic drivers, which are inflation (by using HICP index) and unemployment rate. The analysis period is 2015-2024 to see the difference before, during, and after COVID period.
