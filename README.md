@@ -31,17 +31,22 @@ Key Questions:
 # Methodology
 **1. Data cleaning & preprocessing
 **
+
   - Importing macroeconomic series into Python
   - Merging into one dataframe by date
+
 **2. Exploratory analysis, Normality Test, & Hypothesis Testing
 **
+
   - Trend plots of EURIBOR, inflation, and unemployment
   - Visual comparison before/during/after COVID
+
 **3. Regression/modelling (Multiple Regression & Random Forest)
 **
   - Use inflation and unemployment as independent variables
   - Try to explain EURIBOR level as the dependent variable
   - Evaluate how strong each driver is
+
 **4. Interpretation
 **
   - Intepret the movements in EURIBOR to macroeconomics conditions
