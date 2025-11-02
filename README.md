@@ -69,9 +69,9 @@ Key Questions:
 
   - Intepret the movements in EURIBOR to macroeconomics conditions
 # Repository structure
-  data/ Raw/cleaned macroeconomic data (EURIBOR, HICP, and unemployment)
+  "data/" Raw/cleaned macroeconomic data (EURIBOR, HICP, and unemployment)"
   
-  notebooks/ Jupyter notebook with:
+  "notebooks/" Jupyter notebook with:
   
   - preprocessing
   
@@ -79,7 +79,7 @@ Key Questions:
   
   - regression/prediction
   
-  README.md Project description (this file)
+  "README.md" Project description (this file)
 
 # Summary/Why it matters
   
